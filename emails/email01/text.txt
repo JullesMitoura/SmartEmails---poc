@@ -1,0 +1,2 @@
+Hello!
+Below is the report regarding a failure that occurred in the Shell and Tube Heat Exchanger - Model PHT-2000.

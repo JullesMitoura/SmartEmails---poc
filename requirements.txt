@@ -1,0 +1,8 @@
+python-dotenv==0.21.0
+pydantic_settings==2.0.0
+pandas
+openai
+langchain-openai
+langchain
+streamlit
+scikit-learn
